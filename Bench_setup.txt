@@ -1,3 +1,6 @@
 Bench setup
 
 HMI
+Power Dummy
+Heads Up Display
+Instrument Panel Cluster
